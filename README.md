@@ -1,5 +1,5 @@
-# 👋 About Me:
-As a Front-end React.js Developer, I have a passion for working with JavaScript technologies and a strong enthusiasm for web development, as well as Data Structures and Algorithms. At present, I am deeply focused on expanding my knowledge of Web Development and Cloud Computing, and am eager to continue learning and growing in these areas. My goal is to leverage my skills and expertise to create innovative and user-friendly web applications that help to enhance the online experience for users.
+# 👋 Hey there:
+My name is Parth Ratra & I'm a Frontend Javascript Developer who loves to work with JavaScript technologies and is enthusiastic about Frontend web development, as well as Data Structures and Algorithms. At present, I am deeply focused on expanding my knowledge of Web Development and Cloud Computing, and am eager to continue learning and growing in these areas. My goal is to leverage my skills and expertise to create innovative and user-friendly web applications that help to enhance the online experience for users.
 
 
 ## 🌐 Connect With me:
