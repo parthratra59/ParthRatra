@@ -1,5 +1,13 @@
 # 👋 Hey there
-My name is Parth Ratra & I'm a Frontend Javascript Developer who loves to work with JavaScript technologies and is enthusiastic about Frontend web development, as well as Data Structures and Algorithms. At present, I am deeply focused on expanding my knowledge of Web Development and Cloud Computing, and am eager to continue learning and growing in these areas. My goal is to leverage my skills and expertise to create innovative and user-friendly web applications that help to enhance the online experience for users.
+
+ I'm Parth Ratra, a final-year Computer Science Engineering student, immersed in the realms of web tech and Data Structures/Algorithms. Proficient in C++, JavaScript, Redux, Tailwind CSS, React.js, MongoDB. Crafting innovative projects, I push my boundaries, nurturing growth, and always focus on the process. I live by the 1% improvement mantra—striving for creativity and excellence every day. 
+
+Excited to expand my horizons with:
+✔️ React Native, TypeScript, and PostgreSQL.
+
+✔️ Crafting mobile apps 📱
+
+✔️ Exploring the realm of AR 🌟
 
 
 ## 🌐 Connect With me:
