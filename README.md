@@ -3,6 +3,7 @@
  I'm Parth Ratra, a final-year Computer Science Engineering student, immersed in the realms of web tech and Data Structures/Algorithms. Proficient in C++, JavaScript, Redux, Tailwind CSS, React.js, MongoDB. Crafting innovative projects, I push my boundaries, nurturing growth, and always focus on the process. I live by the 1% improvement mantra—striving for creativity and excellence every day. 
 
 Excited to expand my horizons with:
+
 ✔️ React Native, TypeScript, and PostgreSQL.
 
 ✔️ Crafting mobile apps 📱
