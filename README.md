@@ -4,11 +4,9 @@
 
 Excited to expand my horizons with:
 
-✔️ React Native, TypeScript, and PostgreSQL.
+✔️ Next.js, TypeScript, and PostgreSQL.
 
-✔️ Crafting mobile apps 📱
-
-✔️ Exploring the realm of AR 🌟
+✔️ Crafting Web-Application apps 📱
 
 
 ## 🌐 Connect With me:
